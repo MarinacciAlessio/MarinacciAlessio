@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MarinacciAlessio
-- 🇮🇹 I study IT Engineering at Politecnico di Torino, Italy
-- ⚔️🎑 I like strategy games and sengoku japan stuff (yes I do play Shogun II) 
+- :it: | I study IT Engineering at Politecnico di Torino, Italy
+- ⚔️🎑| I like strategy games and sengoku japan stuff (yes I do play Shogun II) 
